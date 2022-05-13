@@ -10,8 +10,9 @@ I've been learning to code for 3years . I'm currently studying 10th standard. I'
 *   ✉️  You can contact me at [viniyan563@gmail.com](mailto:viniyan563@gmail.com)
 *   🧠  I'm learning javascript and flask framework
 *   🤝  I'm open to collaborating on tlegram bots and flask projects
-*   ⚡  I'm secretly a Hacker ... (just for fun)<a href="https://www.github.com/iniyanv" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/iniyanv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
+*   ⚡  I'm secretly a Hacker ... (just for fun)
+<a href="https://www.github.com/iniyanv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/iniyanv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>### Skills<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -25,10 +26,10 @@ I've been learning to code for 3years . I'm currently studying 10th standard. I'
                                 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
                     </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+ <p align="left">
                           
                       <a href="https://www.github.com/iniyanv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
