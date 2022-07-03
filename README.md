@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://im.ezgif.com/tmp/ezgif-1-f7f2a68b90.gif" align="center" style="width: 100%;height:30%" />
+  
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/78460090/177041634-198c28d3-85d4-440d-ac53-bd9fc33b4ff0.gif)
+
+
 </div>  
   
 
